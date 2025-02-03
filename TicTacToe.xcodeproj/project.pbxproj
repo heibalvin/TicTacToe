@@ -22,6 +22,8 @@
 		392D5A7E2D50C27F005D7E76 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392D5A562D50C27B005D7E76 /* GameScene.swift */; };
 		392D5A7F2D50C27F005D7E76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 392D5A572D50C27F005D7E76 /* Assets.xcassets */; };
 		392D5A802D50C27F005D7E76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 392D5A572D50C27F005D7E76 /* Assets.xcassets */; };
+		392D5A922D50D3AF005D7E76 /* TicTacToeGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392D5A912D50D3AF005D7E76 /* TicTacToeGameScene.swift */; };
+		392D5A932D50D3AF005D7E76 /* TicTacToeGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392D5A912D50D3AF005D7E76 /* TicTacToeGameScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,8 @@
 		392D5A752D50C27F005D7E76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		392D5A772D50C27F005D7E76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		392D5A782D50C27F005D7E76 /* TicTacToe_macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TicTacToe_macOS.entitlements; sourceTree = "<group>"; };
+		392D5A912D50D3AF005D7E76 /* TicTacToeGameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeGameScene.swift; sourceTree = "<group>"; };
+		3997013C2D50EE80002C5AA6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,7 @@
 		392D5A4E2D50C27A005D7E76 = {
 			isa = PBXGroup;
 			children = (
+				3997013C2D50EE80002C5AA6 /* README.md */,
 				392D5A532D50C27A005D7E76 /* TicTacToe Shared */,
 				392D5A5E2D50C27F005D7E76 /* TicTacToe iOS */,
 				392D5A6F2D50C27F005D7E76 /* TicTacToe macOS */,
@@ -78,6 +83,7 @@
 				392D5A552D50C27B005D7E76 /* GameScene.sks */,
 				392D5A562D50C27B005D7E76 /* GameScene.swift */,
 				392D5A572D50C27F005D7E76 /* Assets.xcassets */,
+				392D5A912D50D3AF005D7E76 /* TicTacToeGameScene.swift */,
 			);
 			path = "TicTacToe Shared";
 			sourceTree = "<group>";
@@ -222,6 +228,7 @@
 				392D5A7D2D50C27F005D7E76 /* GameScene.swift in Sources */,
 				392D5A622D50C27F005D7E76 /* GameViewController.swift in Sources */,
 				392D5A602D50C27F005D7E76 /* AppDelegate.swift in Sources */,
+				392D5A922D50D3AF005D7E76 /* TicTacToeGameScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +239,7 @@
 				392D5A7E2D50C27F005D7E76 /* GameScene.swift in Sources */,
 				392D5A732D50C27F005D7E76 /* GameViewController.swift in Sources */,
 				392D5A712D50C27F005D7E76 /* AppDelegate.swift in Sources */,
+				392D5A932D50D3AF005D7E76 /* TicTacToeGameScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
