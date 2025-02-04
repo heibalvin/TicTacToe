@@ -7,3 +7,13 @@ This tutorial is part of a serie of 3 blogs, with all game resources available h
  * [Tic Tac Toe: Implement the Game Logic (3/3)](https://heibalvin.infinityfreeapp.com/tic-tac-toe-implement-the-game-logic-33.html)
 
 We are going to implement Tic Tac Toe game on iOS and macOS. Heavily using Xcode IDE as well as Swift Programming language and SpriteKit library.
+
+## How-To
+
+Clone this repository
+```
+> git clone https://github.com/heibalvin/TicTacToe.git
+```
+
+And then run *TicTacToe.xcodeproj* file on MacOS.
+Build and Run for MacOS or iOS.
